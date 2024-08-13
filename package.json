@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@0xsequence/waas": "^1.10.11",
     "@react-oauth/google": "^0.12.1",
     "playfab-sdk": "^2.158.240802",
     "react": "^18.3.1",
